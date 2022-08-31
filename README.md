@@ -12,12 +12,11 @@
  <a href="#Device">Component and Device</a></br>
  <a href="#languageTools">Language and Tools</a></br>
  <a href="#Diagram">Robot Diagram</a></br>
- <a href="#memory">Memories</a></br>
  <a href="#Acknowledge">Acknowledge</a></br>
 
 <p id="Robot Vision"></p>
 
-**Humanoid Robot Using Raspberry PI**
+**Robot Vision will be a 3D-printed Robot for the first time in our country which targets three domains of use: science, education, and art. Robot Vision will be created with a scientific goal: to be a new experimental platform that allows students, and researchers to systematically study the role of morphology in sensorimotor control, human-robot interaction, Machine Learning, and cognitive development.**
 
 <h2 id="Features">Features</h2> 
 <hr>
@@ -74,6 +73,8 @@
 <br>
 
 - [ ] **Advanced Machine Learning Features**
+  - [ ] Taking measurements
+  - [ ] Scanners and reading barcodes
   - [ ] Object Detection
   - [ ] Image Detection
   - [ ] Image Recognition 
