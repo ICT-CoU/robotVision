@@ -14,14 +14,16 @@
  <a href="#Diagram">Robot Diagram</a></br>
  <a href="#Acknowledge">Acknowledge</a></br>
 
-<p id="Robot Vision"></p>
+<hr>
+
+<h2 id="Robot Vision">Introduction</h2>
 
 **Robot Vision will be a 3D-printed Robot for the first time in our country which targets three domains of use: science, education, and art. Robot Vision will be created with a scientific goal: to be a new experimental platform that allows students, and researchers to systematically study the role of morphology in sensorimotor control, human-robot interaction, Machine Learning, and cognitive development.**
 
 <h2 id="Features">Features</h2> 
 <hr>
 
-<img align='right' src="extras/images/robot-front.jpg" width="350">
+<img align='right' src="extras/images/visionPartsName.jpg" width="350">
 
 - [ ] **Robot Voice**
   - [ ] WakeWord
@@ -50,7 +52,7 @@
   - [ ] Tells you latest news feeds.
   - [ ] Send an Email
 
-<img align='right' src="extras/images/robot-side.png" width="350">
+<img align='right' src="extras/images/visionWideHand.jpg" width="350">
 
 <br>
 
@@ -124,7 +126,8 @@
 
 <h2 id="Diagram">Robot Diagram</h2>
 
-<img width="60%"  src="extras/images/robot-back.png">
+<img width="60%"  src="extras/images/visionAllAngle.png">
+<img width="60%" src="extras/images/visionVariousView.png">
 
 
 
